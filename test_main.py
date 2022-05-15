@@ -9,5 +9,6 @@ from selenium.webdriver.common.by import By
 class TestBohUpdate:
 
     def test_update(self):
+        print("Hi! I'm here!")
         pass
 
